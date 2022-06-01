@@ -45,7 +45,7 @@
     "@backstage/backend-common": "^0.13.6-next.1",
     "@backstage/backend-test-utils": "^0.1.25-next.1",
     "@backstage/cli": "^0.17.2-next.1",
-    "msw": "^0.35.0"
+    "msw": "^0.42.0"
   },
   "files": [
     "dist",
